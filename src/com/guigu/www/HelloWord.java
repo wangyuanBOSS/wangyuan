@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	}
 	System.out.println(new Object());
 	System.out.println("sdfs");
+	System.out.println("sdfs");
 }
 }
