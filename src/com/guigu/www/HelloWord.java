@@ -6,5 +6,6 @@ public static void main(String[] args) {
 		System.out.println("sys");
 	}
 	System.out.println(new Object());
+	System.out.println("sdfs");
 }
 }
